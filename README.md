@@ -1,4 +1,4 @@
-# RE_QSVT_HHL
+# RE-QSVT-HHL
 
 Resource Estimation for QSVT-Based implementations of the HHL algorithm.
 
