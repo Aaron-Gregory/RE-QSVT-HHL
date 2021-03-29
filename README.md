@@ -8,4 +8,8 @@ For a walkthrough of QSVT's application to HHL, see section 3.2.3 of [Gilyén's 
 
 For implementations of the Remez algorithm see [QSPPACK](https://github.com/qsppack/qsppack).
 
-[HPCG](https://github.com/hpcg-benchmark/hpcg/) seems like a good candidate for the CG code.
+[HPCG](https://github.com/hpcg-benchmark/hpcg/) seems like a good candidate for the [CG](https://www.cs.cmu.edu/~quake-papers/painless-conjugate-gradient.pdf) code.
+
+The [UniversalQCompiler](https://arxiv.org/abs/1904.01072) will be used.
+
+[Aer's noise model](https://qiskit.org/documentation/apidoc/aer_noise.html?highlight=noise%20model#module-qiskit.providers.aer.noise) will be used.
